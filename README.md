@@ -8,19 +8,19 @@ Nhưng các bạn có thể gọi tôi là: XTT <br></p>
 </blockquote>
 </blockquote>
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> Tôi thích chi các trò chơi điện tử <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true"><img height="20px" src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true" style="max-width: 100%;"></a>
+<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> Tôi thích vẽ và ca hát<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true"><img height="20px" src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true" style="max-width: 100%;"></a>
 <ul dir="auto">
-<li>Liên minh huyền thoại (League of legends)</li>
-<li>Liên minh huyền thoại: tốc chiến (Wild rift)</li>
+<li>Vẽ illustration (Cam)</li>
+<li>Hát những bài hát vui tươi (Một Cộng Một Lớn Hơn Hai)</li>
 </ul>
 </li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Các bạn có thể liên hệ với Diễn qua</li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Các bạn có thể liên hệ với ̃Trung qua</li>
 </ul>
 <p align="center" dir="auto">
-  <a href="mailto:id.tranquangdien@gmail.com">
+  <a href="mailto:id.trungxuan569@gmail.com">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/gmail.svg" style="max-width: 100%;">
   </a>
-  <a href="https://www.facebook.com/tqdien.vn" rel="nofollow">
+  <a href="https://www.facebook.com/tongxuantrung.2001" rel="nofollow">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/facebook.svg" style="max-width: 100%;">
   </a>
   <a href="https://dieenx.github.io/dieenx/" rel="nofollow">
