@@ -1,49 +1,17 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h2 align="center" dir="auto"><a id="user-content-hi-mình-là-Camta-đây" class="anchor" aria-hidden="true" href="#hi-mình-là-diễn-đây"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com//dieenx/dieenx/main/README/wave.gif?raw=true"><img src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/wave.gif?raw=true" width="25px" style="max-width: 100%;"></a>Hi! mình là Trung đây
-</h2>
-<blockquote>
-<p dir="auto">Tôi tên là: Tống Xuân Trung <br>
-Nhưng các bạn có thể gọi tôi là: XTT <br></p>
-<blockquote>
-<p dir="auto">À, tôi sinh năm 2001 và thành thật mà nói, tôi không còn trẻ nữa nhưng tôi vẫn còn độc thân, có lẽ vì tôi đã dành quá nhiều thời gian cho công việc.<br></p>
-</blockquote>
-</blockquote>
-<ul dir="auto">
-<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> Tôi thích vẽ và ca hát<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true"><img height="20px" src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true" style="max-width: 100%;"></a>
-<ul dir="auto">
-<li>Vẽ illustration (Cam)</li>
-<li>Hát những bài hát vui tươi (Một Cộng Một Lớn Hơn Hai)</li>
-</ul>
-</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Các bạn có thể liên hệ với ̃Trung qua</li>
-</ul>
-<p align="center" dir="auto">
-  <a href="mailto:id.trungxuan569@gmail.com">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/gmail.svg" style="max-width: 100%;">
-  </a>
-  <a href="https://www.facebook.com/tongxuantrung.2001" rel="nofollow">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/facebook.svg" style="max-width: 100%;">
-  </a>
-  <a href="https://dieenx.github.io/dieenx/" rel="nofollow">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/telegram-app.svg" style="max-width: 100%;">
-  </a>
-<br>
-  <a href="https://dieenx.github.io/dieenx/" rel="nofollow">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/zalo.svg" style="max-width: 100%;">
-  </a>
-  <a href="https://www.youtube.com/channel/UC92uzcOv6ThxrD5AYhN6ktQ?sub_confirmation=1" rel="nofollow">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/youtube.svg" style="max-width: 100%;">
-  </a>
-  <a href="https://dieenx.github.io/dieenx/" rel="nofollow">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/tiktok.svg" style="max-width: 100%;">
-  </a>
-<br>
-   <a href="https://dieenx.github.io/dieenx/" rel="nofollow">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/discord.svg" style="max-width: 100%;">
-  </a>
-  <a href="https://dieenx.github.io/dieenx/" rel="nofollow">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/github.svg" style="max-width: 100%;">
-  </a>
-  <a href="https://dieenx.github.io/dieenx/" rel="nofollow">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/phone.svg" style="max-width: 100%;">
-  </a>
-</p></article>
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<table>
+    <tbody><tr>
+        <td>
+            
+            <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7e2e4bf6239ec48d65c39ceb3c74e8894f62b1e3f91a1deab5b3ef7f8d6ebd96/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6c65616e6864756370726f766e26646174655f666f726d61743d4d2532306a2535422532432532305925354426666972653d303936394441266375727253747265616b4c6162656c3d3039363944412672696e673d303936394441"><img align="center" src="https://camo.githubusercontent.com/7e2e4bf6239ec48d65c39ceb3c74e8894f62b1e3f91a1deab5b3ef7f8d6ebd96/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6c65616e6864756370726f766e26646174655f666f726d61743d4d2532306a2535422532432532305925354426666972653d303936394441266375727253747265616b4c6162656c3d3039363944412672696e673d303936394441" alt="leanhducprovn" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=leanhducprovn&amp;date_format=M%20j%5B%2C%20Y%5D&amp;fire=0969DA&amp;currStreakLabel=0969DA&amp;ring=0969DA" style="max-width: 100%;"></a>
+        </td>
+        <td>
+            <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9376d774def2e7952cd61595cc617de9232240b246eb2c62a434e036641aa5d1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c65616e6864756370726f766e2673686f775f69636f6e733d74727565266c6f63616c653d656e2669636f6e5f636f6c6f723d30393639444126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565"><img align="center" src="https://camo.githubusercontent.com/9376d774def2e7952cd61595cc617de9232240b246eb2c62a434e036641aa5d1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c65616e6864756370726f766e2673686f775f69636f6e733d74727565266c6f63616c653d656e2669636f6e5f636f6c6f723d30393639444126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" alt="leanhducprovn" data-canonical-src="https://github-readme-stats.vercel.app/api?username=leanhducprovn&amp;show_icons=true&amp;locale=en&amp;icon_color=0969DA&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"></a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td colspan="2"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6f1dc8248dbb191f49b615a474d5e2ae450a16c9604fd7f4ad8f8149008a89ed/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6c65616e6864756370726f766e2662675f636f6c6f723d66666666666626636f6c6f723d303936396461266c696e653d30393639646126706f696e743d65363339343626617265613d7472756526617265615f636f6c6f723d303936396461"><img align="center" src="https://camo.githubusercontent.com/6f1dc8248dbb191f49b615a474d5e2ae450a16c9604fd7f4ad8f8149008a89ed/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6c65616e6864756370726f766e2662675f636f6c6f723d66666666666626636f6c6f723d303936396461266c696e653d30393639646126706f696e743d65363339343626617265613d7472756526617265615f636f6c6f723d303936396461" alt="leanhducprovn" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=leanhducprovn&amp;bg_color=ffffff&amp;color=0969da&amp;line=0969da&amp;point=e63946&amp;area=true&amp;area_color=0969da" style="max-width: 100%;"></a></td>
+    </tr>
+</tbody></table>
+</article>
