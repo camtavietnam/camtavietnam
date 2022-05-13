@@ -1,12 +1,3 @@
-<div class="Box mt-4">
-  <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/leanhducprovn/leanhducprovn" class="no-underline Link--primary">leanhducprovn</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
-
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <table>
     <tbody><tr>
         <td>
@@ -22,6 +13,3 @@
         <td colspan="2"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6f1dc8248dbb191f49b615a474d5e2ae450a16c9604fd7f4ad8f8149008a89ed/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6c65616e6864756370726f766e2662675f636f6c6f723d66666666666626636f6c6f723d303936396461266c696e653d30393639646126706f696e743d65363339343626617265613d7472756526617265615f636f6c6f723d303936396461"><img align="center" src="https://camo.githubusercontent.com/6f1dc8248dbb191f49b615a474d5e2ae450a16c9604fd7f4ad8f8149008a89ed/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6c65616e6864756370726f766e2662675f636f6c6f723d66666666666626636f6c6f723d303936396461266c696e653d30393639646126706f696e743d65363339343626617265613d7472756526617265615f636f6c6f723d303936396461" alt="leanhducprovn" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=leanhducprovn&amp;bg_color=ffffff&amp;color=0969da&amp;line=0969da&amp;point=e63946&amp;area=true&amp;area_color=0969da" style="max-width: 100%;"></a></td>
     </tr>
 </tbody></table>
-</article>
-  </div>
-</div>
