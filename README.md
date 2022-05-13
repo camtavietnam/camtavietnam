@@ -1,1 +1,1 @@
-<img src="http://upload.wikimedia.org/wikipedia/commons/6/62/Harmonic_Standing_Wave.gif"/>
+<img src="https://img.idesign.vn/2021/10/10000000_1555876591430434_3440124942470791325_n.gif"/>
